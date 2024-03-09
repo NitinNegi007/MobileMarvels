@@ -1,0 +1,21 @@
+/* Footer.css */
+
+.footer {
+    background-color:rgb(19, 19, 19);
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  /* Additional styling for mobile responsiveness */
+  @media only screen and (max-width: 600px) {
+    .footer-content {
+      padding: 0 10px;
+    }
+  }
+  
